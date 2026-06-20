@@ -1,16 +1,25 @@
-## Hi there 👋
+# farorcai-art — Autonomous AI Systems Orchestrator
 
-<!--
-**farorcai-art/farorcai-art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Self-hosted AI infrastructure for private, secure, and scalable LLM orchestration.
 
-Here are some ideas to get you started:
+## What I Do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ✅ Multi-node OpenClaw clusters with federated routing  
+- ✅ Local LLM deployment (7B–70B) on bare metal / VM  
+- ✅ Device-authenticated AI networks (50+ devices)  
+- ✅ RAG-ready local AI stack (Ollama + LocalAI + Vector DB)  
+- ✅ Multi-agent orchestration (DeepSeek, Claude, Gemini, Coder)
+
+## Stack
+
+`OpenClaw` · `Ollama` · `LocalAI` · `Docker` · `Linux` · `Nginx` · `Git`
+
+## Contact
+
+📧 farorcai@gmail.com  
+🌐 [Telegram](https://t.me/farorcai) *(если есть)*  
+📌 [Upwork](https://www.upwork.com/) *(если есть)*  
+📍 Remote
+
+---
+*Built with autonomy, privacy, and zero data leakage in mind.*
