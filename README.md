@@ -1,37 +1,41 @@
-# farorcai-art — Autonomous AI Systems Orchestrator
-
-Self-hosted AI infrastructure for private, secure, and scalable LLM orchestration.
-
-## What I Do
-
-- ✅ [Multi-node OpenClaw clusters](https://github.com/farorcai-art/multi-node-openclaw-cluster) — federated routing across 3+ nodes  
-- ✅ [Local LLM deployment](https://github.com/farorcai-art/local-llm-deployment) — zero-data-leakage on bare metal / VM  
-- ✅ [Device-authenticated AI network](https://github.com/farorcai-art/device-auth-ai-network) — 50+ devices, instant revocation  
-- ✅ [RAG-ready local AI stack](https://github.com/farorcai-art/local-ai-stack) — Ollama + LocalAI + Vector DB + Auth Proxy  
-- ✅ [Multi-agent orchestration](https://github.com/farorcai-art/ai-agent-orchestrator) — cross-validated outputs from DeepSeek, Claude, Gemini, Coder  
-- ✅ [OpenClaw auth gateway](https://github.com/farorcai-art/openclaw-auth-gateway) — secure federation for OpenRouter & local models
-
-## Repositories
-
-| Repo | Description |
-|------|-------------|
-| [`multi-node-openclaw-cluster`](https://github.com/farorcai-art/multi-node-openclaw-cluster) | Federated OpenClaw Cluster: Multi-Node AI Gateway |
-| [`local-llm-deployment`](https://github.com/farorcai-art/local-llm-deployment) | Self-Hosted LLM Infrastructure: Zero Data Leakage |
-| [`device-auth-ai-network`](https://github.com/farorcai-art/device-auth-ai-network) | Device-Authenticated AI Network for On-Premise Teams |
-| [`local-ai-stack`](https://github.com/farorcai-art/local-ai-stack) | Local AI Stack: Ollama, LocalAI, Docker — Production Ready |
-| [`ai-agent-orchestrator`](https://github.com/farorcai-art/ai-agent-orchestrator) | Autonomous AI Agent Orchestrator: Multi-Model Validation |
-| [`openclaw-auth-gateway`](https://github.com/farorcai-art/openclaw-auth-gateway) | Secure OpenClaw Gateway with OpenRouter Federation |
-
-## Stack
-
-`OpenClaw` · `Ollama` · `LocalAI` · `Docker` · `Linux` · `Nginx` · `Git`
-
-## Contact
-
-📧 farorcai@gmail.com  
-🌐 [Telegram](https://t.me/farorcai) *(если есть)*  
-💼 [Upwork](https://www.upwork.com/) *(если есть)*  
-📍 Remote
-
----
-*Built with autonomy, privacy, and zero data leakage in mind.*
+Farkhad Zakhrutdinov — AI Infrastructure Engineer
+Local AI deployment | OpenClaw/NemoClaw federation | Security hardening
+📍 Almaty, Kazakhstan · 🌐 Remote Worldwide · 💼 Available for contracts
+What I Do
+I build production-grade local AI infrastructure that doesn't leak data to the cloud.
+✅ Multi-node OpenClaw federation — LAN/VPN clusters across Linux/Windows/macOS
+✅ Security hardening — zero incidents in 6 months production (fintech/medical grade)
+✅ VK/ Telegram integrations — bridges between messengers and local AI agents
+✅ Migration & breaking changes — zero-downtime version upgrades
+✅ 48-hour pilots — from spec to working deployment
+Featured Projects
+Table
+Project	What It Does	Stack
+https://github.com/farorcai-art/openclaw-lan-federation	Multi-node Gateway federation with Ed25519 device auth	Docker, WebSocket, Ed25519
+https://github.com/farorcai-art/vk-openclaw-bridge	VKontakte → local AI agent bridge, 100% on-premise	Node.js, VK API, HTTP REST
+https://github.com/farorcai-art/lobster-guard	AI security plugin — dual-confirmation for dangerous LLM actions	OpenClaw Plugin API, Python GUI
+https://github.com/farorcai-art/openclaw-orchestrator	WebSocket hub for 2–100+ Gateway nodes	Node.js, Room-based routing
+Results
+Table
+Metric	Value
+LAN federation setup	48 hours (vs 3 weeks estimated by DevOps)
+Security incidents	0 in 6 months production
+Data leakage	0% — fully on-premise
+Version migrations	Zero downtime (2026.5.7 → 2026.5.18)
+Response time (VK bridge)	1–3 seconds
+Engagement Models
+Table
+Service	Timeline	Price
+48-hour pilot	2 days	$500
+Security audit	3–5 days	$1,500
+Full deployment	1–2 weeks	From $3,000
+Retainer (monthly)	Ongoing	$2,500/month
+💡 Pilot terms: If it doesn't work, you don't pay.
+Tech Stack
+OpenClaw · NemoClaw · Docker · Node.js · WebSocket · Ed25519 · Tailscale · Linux · Windows · Python
+Contact
+📧 Email: farorcai@gmail.com
+💼 Upwork: upwork.com/freelancers/~01a7db6199ced6f004
+💬 LinkedIn: linkedin.com/in/farkhad-zakhrutdinov-2bb9a9417
+🐙 GitHub: github.com/farorcai-art
+Built with autonomy, privacy, and zero data leakage in mind.
